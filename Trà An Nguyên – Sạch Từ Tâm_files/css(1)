@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://web.archive.org/web/20220208051214im_/https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20220208051214im_/https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20220208051214im_/https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Zhi Mang Xing';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20220208051214im_/https://fonts.gstatic.com/s/zhimangxing/v15/f0Xw0ey79sErYFtWQ9a2rq-g4aAneQ.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 05:12:14 Feb 08, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:58:28 May 15, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.637
+  exclusion.robots: 0.074
+  exclusion.robots.policy: 0.065
+  esindex: 0.009
+  cdx.remote: 8.358
+  LoadShardBlock: 274.892 (3)
+  PetaboxLoader3.datanode: 286.959 (4)
+  load_resource: 74.86
+  PetaboxLoader3.resolve: 27.805
+*/
